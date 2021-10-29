@@ -1,0 +1,267 @@
+Country Code,Country Name,Income_Group
+ABW,Aruba,Ingreso alto
+AFG,Afganistán,Países de ingreso bajo
+AGO,Angola,Países de ingreso mediano bajo
+ALB,Albania,Ingreso mediano alto
+AND,Andorra,Ingreso alto
+ARB,El mundo árabe,Agregados
+ARE,Emiratos Árabes Unidos,Ingreso alto
+ARG,Argentina,Ingreso mediano alto
+ARM,Armenia,Ingreso mediano alto
+ASM,Samoa Americana,Ingreso mediano alto
+ATG,Antigua y Barbuda,Ingreso alto
+AUS,Australia,Ingreso alto
+AUT,Austria,Ingreso alto
+AZE,Azerbaiyán,Ingreso mediano alto
+BDI,Burundi,Países de ingreso bajo
+BEL,Bélgica,Ingreso alto
+BEN,Benin,Países de ingreso mediano bajo
+BFA,Burkina Faso,Países de ingreso bajo
+BGD,Bangladesh,Países de ingreso mediano bajo
+BGR,Bulgaria,Ingreso mediano alto
+BHR,Bahrein,Ingreso alto
+BHS,Bahamas,Ingreso alto
+BIH,Bosnia y Herzegovina,Ingreso mediano alto
+BLR,Belarús,Ingreso mediano alto
+BLZ,Belice,Países de ingreso mediano bajo
+BMU,Bermudas,Ingreso alto
+BOL,Bolivia,Países de ingreso mediano bajo
+BRA,Brasil,Ingreso mediano alto
+BRB,Barbados,Ingreso alto
+BRN,Brunei Darussalam,Ingreso alto
+BTN,Bhután,Países de ingreso mediano bajo
+BWA,Botswana,Ingreso mediano alto
+CAF,República Centroafricana,Países de ingreso bajo
+CAN,Canadá,Ingreso alto
+CEB,"Europa Central y del Báltico
+",Agregados
+CHE,Suiza,Ingreso alto
+CHI,Islas del Canal,Ingreso alto
+CHL,Chile,Ingreso alto
+CHN,China,Ingreso mediano alto
+CIV,Côte d'Ivoire,Países de ingreso mediano bajo
+CMR,Camerún,Países de ingreso mediano bajo
+COD,"Congo, República Democrática del",Países de ingreso bajo
+COG,"Congo, República del",Países de ingreso mediano bajo
+COL,Colombia,Ingreso mediano alto
+COM,Comoras,Países de ingreso mediano bajo
+CPV,Cabo Verde,Países de ingreso mediano bajo
+CRI,Costa Rica,Ingreso mediano alto
+CSS,Estados pequeos del Caribe,Agregados
+CUB,Cuba,Ingreso mediano alto
+CUW,Curacao,Ingreso alto
+CYM,Islas Caimán,Ingreso alto
+CYP,Chipre,Ingreso alto
+CZE,República Checa,Ingreso alto
+DEU,Alemania,Ingreso alto
+DJI,Djibouti,Países de ingreso mediano bajo
+DMA,Dominica,Ingreso mediano alto
+DNK,Dinamarca,Ingreso alto
+DOM,República Dominicana,Ingreso mediano alto
+DZA,Argelia,Países de ingreso mediano bajo
+EAP,Asia oriental y el Pacífico (excluido altos ingresos),Agregados
+EAR,inicial del dividendo demográfico,Agregados
+EAS,Asia oriental y el Pacífico ,Agregados
+ECA,Europa y Asia central (excluido altos ingresos),Agregados
+ECS,Europa y Asia central,Agregados
+ECU,Ecuador,Ingreso mediano alto
+EGY,"Egipto, República Árabe de",Países de ingreso mediano bajo
+EMU,Zona del Euro,Agregados
+ERI,Eritrea,Países de ingreso bajo
+ESP,España,Ingreso alto
+EST,Estonia,Ingreso alto
+ETH,Etiopía,Países de ingreso bajo
+EUU,Unión Europea,Agregados
+FCS,"Frágiles y situaciones de conflicto afectados
+",Agregados
+FIN,Finlandia,Ingreso alto
+FJI,Fiji,Ingreso mediano alto
+FRA,Francia,Ingreso alto
+FRO,Islas Feroe,Ingreso alto
+FSM,Micronesia (Estados Federados de),Países de ingreso mediano bajo
+GAB,Gabón,Ingreso mediano alto
+GBR,Reino Unido,Ingreso alto
+GEO,Georgia,Ingreso mediano alto
+GHA,Ghana,Países de ingreso mediano bajo
+GIB,Gibraltar,Ingreso alto
+GIN,Guinea,Países de ingreso bajo
+GMB,Gambia,Países de ingreso bajo
+GNB,Guinea-Bissau,Países de ingreso bajo
+GNQ,Guinea Ecuatorial,Ingreso mediano alto
+GRC,Grecia,Ingreso alto
+GRD,Granada,Ingreso mediano alto
+GRL,Groenlandia,Ingreso alto
+GTM,Guatemala,Ingreso mediano alto
+GUM,Guam,Ingreso alto
+GUY,Guyana,Ingreso mediano alto
+HIC,Ingreso alto,Agregados
+HKG,"Hong Kong, Región Administrativa Especial",Ingreso alto
+HND,Honduras,Países de ingreso mediano bajo
+HPC,Países pobres muy endeudados (PPME),Agregados
+HRV,Croacia,Ingreso alto
+HTI,Haití,Países de ingreso mediano bajo
+HUN,Hungría,Ingreso alto
+IBD,Sólo BIRF,Agregados
+IBT,BIRF y la AIF,Agregados
+IDA,total de la AIF,Agregados
+IDB,mezcla de la AIF,Agregados
+IDN,Indonesia,Países de ingreso mediano bajo
+IDX,Sólo AIF,Agregados
+IMN,Isla de Man,Ingreso alto
+IND,India,Países de ingreso mediano bajo
+INX,No clasificado,Agregados
+IRL,Irlanda,Ingreso alto
+IRN,"Irán, República Islámica del",Países de ingreso mediano bajo
+IRQ,Iraq,Ingreso mediano alto
+ISL,Islandia,Ingreso alto
+ISR,Israel,Ingreso alto
+ITA,Italia,Ingreso alto
+JAM,Jamaica,Ingreso mediano alto
+JOR,Jordania,Ingreso mediano alto
+JPN,Japón,Ingreso alto
+KAZ,Kazajstán,Ingreso mediano alto
+KEN,Kenya,Países de ingreso mediano bajo
+KGZ,Kirguistán,Países de ingreso mediano bajo
+KHM,Camboya,Países de ingreso mediano bajo
+KIR,Kiribati,Países de ingreso mediano bajo
+KNA,Saint Kitts y Nevis,Ingreso alto
+KOR,"Corea, República de",Ingreso alto
+KWT,Kuwait,Ingreso alto
+LAC,América Latina y el Caribe (excluido altos ingresos),Agregados
+LAO,República Democrática Popular Lao,Países de ingreso mediano bajo
+LBN,Líbano,Ingreso mediano alto
+LBR,Liberia,Países de ingreso bajo
+LBY,Libia,Ingreso mediano alto
+LCA,Santa Lucía,Ingreso mediano alto
+LCN,América Latina y el Caribe ,Agregados
+LDC,Países menos desarrollados: clasificación de las Naciones Unidas,Agregados
+LIC,Países de ingreso bajo,Agregados
+LIE,Liechtenstein,Ingreso alto
+LKA,Sri Lanka,Países de ingreso mediano bajo
+LMC,Países de ingreso mediano bajo,Agregados
+LMY,Ingreso mediano y bajo,Agregados
+LSO,Lesotho,Países de ingreso mediano bajo
+LTE,avanzada del dividendo demográfico,Agregados
+LTU,Lituania,Ingreso alto
+LUX,Luxemburgo,Ingreso alto
+LVA,Letonia,Ingreso alto
+MAC,"Región Administrativa Especial de Macao, China",Ingreso alto
+MAF,Isla de San Martín (parte francesa),Ingreso alto
+MAR,Marruecos,Países de ingreso mediano bajo
+MCO,Mónaco,Ingreso alto
+MDA,República de Moldova,Ingreso mediano alto
+MDG,Madagascar,Países de ingreso bajo
+MDV,Maldivas,Ingreso mediano alto
+MEA,Oriente Medio y Norte de África,Agregados
+MEX,México,Ingreso mediano alto
+MHL,Islas Marshall,Ingreso mediano alto
+MIC, Ingreso mediano,Agregados
+MKD,Macedonia del Norte,Ingreso mediano alto
+MLI,Malí,Países de ingreso bajo
+MLT,Malta,Ingreso alto
+MMR,Myanmar,Países de ingreso mediano bajo
+MNA,Oriente Medio y Norte de África (excluido altos ingresos),Agregados
+MNE,Montenegro,Ingreso mediano alto
+MNG,Mongolia,Países de ingreso mediano bajo
+MNP,Mariana,Ingreso alto
+MOZ,Mozambique,Países de ingreso bajo
+MRT,Mauritania,Países de ingreso mediano bajo
+MUS,Mauricio,Ingreso mediano alto
+MWI,Malawi,Países de ingreso bajo
+MYS,Malasia,Ingreso mediano alto
+NAC,América del Norte,Agregados
+NAM,Namibia,Ingreso mediano alto
+NCL,Nueva Caledonia,Ingreso alto
+NER,Níger,Países de ingreso bajo
+NGA,Nigeria,Países de ingreso mediano bajo
+NIC,Nicaragua,Países de ingreso mediano bajo
+NLD,Países Bajos,Ingreso alto
+NOR,Noruega,Ingreso alto
+NPL,Nepal,Países de ingreso mediano bajo
+NRU,Nauru,Ingreso alto
+NZL,Nueva Zelandia,Ingreso alto
+OED,Miembros OCDE,Agregados
+OMN,Omán,Ingreso alto
+OSS,Otros Estados pequeos,Agregados
+PAK,Pakistán,Países de ingreso mediano bajo
+PAN,Panamá,Ingreso mediano alto
+PER,Perú,Ingreso mediano alto
+PHL,Filipinas,Países de ingreso mediano bajo
+PLW,Palau,Ingreso alto
+PNG,Papua Nueva Guinea,Países de ingreso mediano bajo
+POL,Polonia,Ingreso alto
+PRE,previa al dividendo demográfico,Agregados
+PRI,Puerto Rico,Ingreso alto
+PRK,"Corea, República Popular Democrática de",Países de ingreso bajo
+PRT,Portugal,Ingreso alto
+PRY,Paraguay,Ingreso mediano alto
+PSE,Ribera Occidental y Gaza,Países de ingreso mediano bajo
+PSS,Estados pequeos de las Islas del Pacfico,Agregados
+PST,posterior al dividendo demográfico,Agregados
+PYF,Polinesia Francesa,Ingreso alto
+QAT,Qatar,Ingreso alto
+ROU,Rumania,Ingreso mediano alto
+RUS,Federación de Rusia,Ingreso mediano alto
+RWA,Rwanda,Países de ingreso bajo
+SAS,Asia meridional,Agregados
+SAU,Arabia Saudita,Ingreso alto
+SDN,Sudán,Países de ingreso bajo
+SEN,Senegal,Países de ingreso mediano bajo
+SGP,Singapur,Ingreso alto
+SLB,Islas Salomón,Países de ingreso mediano bajo
+SLE,Sierra Leona,Países de ingreso bajo
+SLV,El Salvador,Países de ingreso mediano bajo
+SMR,San Marino,Ingreso alto
+SOM,Somalia,Países de ingreso bajo
+SRB,Serbia,Ingreso mediano alto
+SSA,África al sur del Sahara (excluido altos ingresos),Agregados
+SSD,Sudán del Sur,Países de ingreso bajo
+SSF,África al sur del Sahara,Agregados
+SST,Pequeños Estados,Agregados
+STP,Santo Tomé y Príncipe,Países de ingreso mediano bajo
+SUR,Suriname,Ingreso mediano alto
+SVK,República Eslovaca,Ingreso alto
+SVN,Eslovenia,Ingreso alto
+SWE,Suecia,Ingreso alto
+SWZ,Eswatini,Países de ingreso mediano bajo
+SXM,Sint Maarten (Dutch part),Ingreso alto
+SYC,Seychelles,Ingreso alto
+SYR,República Árabe Siria,Países de ingreso bajo
+TCA,Islas Turcas y Caicos,Ingreso alto
+TCD,Chad,Países de ingreso bajo
+TEA,Asia oriental y el Pacífico (BIRF y la AIF),Agregados
+TEC,Europa y Asia central (BIRF y la AIF),Agregados
+TGO,Togo,Países de ingreso bajo
+THA,Tailandia,Ingreso mediano alto
+TJK,Tayikistán,Países de ingreso mediano bajo
+TKM,Turkmenistán,Ingreso mediano alto
+TLA,América Latina y el Caribe (BIRF y la AIF),Agregados
+TLS,Timor-Leste,Países de ingreso mediano bajo
+TMN,Oriente Medio y Norte de África (BIRF y la AIF),Agregados
+TON,Tonga,Ingreso mediano alto
+TSA,Asia meridional (BIRF y la AIF),Agregados
+TSS,África al sur del Sahara (BIRF y la AIF),Agregados
+TTO,Trinidad y Tobago,Ingreso alto
+TUN,Túnez,Países de ingreso mediano bajo
+TUR,Turquía,Ingreso mediano alto
+TUV,Tuvalu,Ingreso mediano alto
+TZA,Tanzanía,Países de ingreso mediano bajo
+UGA,Uganda,Países de ingreso bajo
+UKR,Ucrania,Países de ingreso mediano bajo
+UMC,Ingreso mediano alto,Agregados
+URY,Uruguay,Ingreso alto
+USA,Estados Unidos,Ingreso alto
+UZB,Uzbekistán,Países de ingreso mediano bajo
+VCT,San Vicente y las Granadinas,Ingreso mediano alto
+VEN,Venezuela,No clasificado
+VGB,Islas Vírgenes Británicas,Ingreso alto
+VIR,Islas Vírgenes (EE.UU.),Ingreso alto
+VNM,Viet Nam,Países de ingreso mediano bajo
+VUT,Vanuatu,Países de ingreso mediano bajo
+WLD,Mundo,Agregados
+WSM,Samoa,Países de ingreso mediano bajo
+XKX,Kosovo,Ingreso mediano alto
+YEM,"Yemen, Rep. del",Países de ingreso bajo
+ZAF,Sudáfrica,Ingreso mediano alto
+ZMB,Zambia,Países de ingreso mediano bajo
+ZWE,Zimbabwe,Países de ingreso mediano bajo
